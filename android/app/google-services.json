@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30525003951",
+    "project_id": "fineantlogin",
+    "storage_bucket": "fineantlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30525003951:android:24524c5f35be877dcb9c5a",
+        "android_client_info": {
+          "package_name": "com.example.fineantlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30525003951-693b4psalebji40kodocqq3svdribitj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB7mkgDp5MJOc7BYtGyvYHOqDtq-YO858"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30525003951-693b4psalebji40kodocqq3svdribitj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
